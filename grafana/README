@@ -1,0 +1,13 @@
+# Grafana Dashboard
+
+Create a Prometheus data source pointing to:
+
+`http://prometheus:9090`
+
+Recommended panels:
+- CPU usage
+- Memory usage
+- Request rate
+- Error rate
+- Latency
+- Instance availability
